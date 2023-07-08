@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rogersampaio
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Unity, Python, React, Angular, .Net Core...
+- 🎓 I'm expert in .NET web development, Javascript, Typescript, React, C#, etc
+- 🌱 I’m currently learning Unity, Python, etc.
 - 💞️ I’m looking to collaborate on Software Developments.
 - 📫 How to reach me: rogersampaio@gmail.com
 
